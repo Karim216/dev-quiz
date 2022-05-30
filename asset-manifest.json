@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dev-quiz/static/css/main.0df00849.css",
+    "main.js": "/dev-quiz/static/js/main.6c7b8785.js",
+    "static/js/787.bbf6091c.chunk.js": "/dev-quiz/static/js/787.bbf6091c.chunk.js",
+    "static/media/bg-noise-texture.png": "/dev-quiz/static/media/bg-noise-texture.78eacb5efbf473356f4a.png",
+    "static/media/spiderman.png": "/dev-quiz/static/media/spiderman.54be21cf9a4177790824.png",
+    "static/media/xmen.png": "/dev-quiz/static/media/xmen.294b1d93cdb93b8fd135.png",
+    "static/media/deadpool.png": "/dev-quiz/static/media/deadpool.c9d280ad1150746a65c7.png",
+    "static/media/ironman.png": "/dev-quiz/static/media/ironman.48dc4dc5dc767ebd4261.png",
+    "static/media/wolverine.png": "/dev-quiz/static/media/wolverine.a67e427ce210b5240a1e.png",
+    "static/media/griffes-gauche.png": "/dev-quiz/static/media/griffes-gauche.37577397b8ba87adde33.png",
+    "static/media/griffes-droit.png": "/dev-quiz/static/media/griffes-droit.085de5685b6a33d9f1da.png",
+    "index.html": "/dev-quiz/index.html",
+    "main.0df00849.css.map": "/dev-quiz/static/css/main.0df00849.css.map",
+    "main.6c7b8785.js.map": "/dev-quiz/static/js/main.6c7b8785.js.map",
+    "787.bbf6091c.chunk.js.map": "/dev-quiz/static/js/787.bbf6091c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0df00849.css",
+    "static/js/main.6c7b8785.js"
+  ]
+}
