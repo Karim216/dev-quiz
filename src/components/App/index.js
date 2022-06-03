@@ -19,6 +19,7 @@ function App() {
           <Header />
 
           <Routes>
+
             <Route path='/' element={<Navigate to="/landing" replace />} />
             <Route path='/landing' element={<Landing />} />
             <Route path='/welcome' element={<Welcome />} />
@@ -26,6 +27,7 @@ function App() {
             <Route path='/singup' element={<Singup />} />
             <Route path='/forgetpassword' element={<ForgetPassword />} />
             <Route path='*' element={<ErrorPage />} />
+            
           </Routes>
 
           <Footer />
